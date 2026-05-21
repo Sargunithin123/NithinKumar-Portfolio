@@ -1,0 +1,10 @@
+[build]
+  command = "npm run build"
+  publish = "build"
+
+# Optional headers (example)
+# [[headers]]
+#   for = "/*"
+#     [headers.values]
+#       Cache-Control = "public, max-age=0, must-revalidate"
+
